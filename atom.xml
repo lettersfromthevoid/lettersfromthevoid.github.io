@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[The June Collective]]></title>
   <link href="http://lettersfromthevoid.github.io/atom.xml" rel="self"/>
   <link href="http://lettersfromthevoid.github.io/"/>
-  <updated>2014-07-07T00:29:36-05:00</updated>
+  <updated>2014-07-07T00:33:25-05:00</updated>
   <id>http://lettersfromthevoid.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Anna]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
